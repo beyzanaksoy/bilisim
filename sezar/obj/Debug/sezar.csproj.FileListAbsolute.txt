@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\sezar\sezar\bin\Debug\sezar.exe.config
+C:\Users\Admin\source\repos\sezar\sezar\bin\Debug\sezar.exe
+C:\Users\Admin\source\repos\sezar\sezar\bin\Debug\sezar.pdb
+C:\Users\Admin\source\repos\sezar\sezar\obj\Debug\sezar.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sezar\sezar\obj\Debug\sezar.Form1.resources
+C:\Users\Admin\source\repos\sezar\sezar\obj\Debug\sezar.Properties.Resources.resources
+C:\Users\Admin\source\repos\sezar\sezar\obj\Debug\sezar.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sezar\sezar\obj\Debug\sezar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sezar\sezar\obj\Debug\sezar.exe
+C:\Users\Admin\source\repos\sezar\sezar\obj\Debug\sezar.pdb
